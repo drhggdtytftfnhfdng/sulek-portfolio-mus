@@ -1,0 +1,147 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+
+}
+.wrapper{
+    width: 945px;
+    margin: 0 auto;
+ 
+}
+ul {
+    padding: 0;
+}
+.header_nav{
+    display: flex; 
+    justify-content: space-between;
+    list-style: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom :1px solid #828282;
+    
+}
+a{
+    text-decoration: none;
+    color: #828282;
+    font-weight: 700;
+    
+}
+
+a:hover {
+    color: black;
+}
+.novik{
+    display: flex;
+    justify-content: space-between;
+    height: 188px;
+    align-items: center;
+}
+span{
+    color: #828282;
+}
+.one{
+    font-size: 48px;
+    font-weight:700; 
+    
+}
+
+.three{
+    font-weight: 700;
+    writing-mode: vertical-rl
+
+}
+
+.strong{
+    line-height: 42px;
+    text-align: center;
+    padding-top:30px;
+    font-size:34px;
+    font-weight:700;
+    margin-top: 100px;
+}
+.About_me{
+    text-align: center;
+    font-size:18px;
+    line-height: 22px;
+    font-weight:500;
+    margin-top:100px ;
+    background-color: #F6F6F6;
+    height:430px ;
+    padding-top: 130px;
+    
+    
+    
+}
+.skills {
+    text-align: center;
+    padding: 100px 0;
+}
+
+.img2{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    margin: 100px 0 0 0;
+}
+
+.port{
+    padding-top: 50px;
+    margin-bottom: 50px;
+}
+.store{
+  margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.portfolio_link {
+    color: black;
+    text-decoration: underline;
+}
+
+.Portfolio{
+    
+    background-color: #F6F6F6;
+    text-align: center;
+    padding-bottom: 10px;
+}
+.contacts{
+    
+    
+    text-align: center;
+    margin-bottom:20px;
+    margin-top: 60px;
+}
+.welcome{
+    
+    line-height: 22px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.message {
+text-decoration: none;
+font-size: 1.5rem;
+font-weight: 700;
+border-radius: 30px;
+padding: 16px 60px;
+margin: 0 15px;
+border-color: rgb(7, 7, 7);
+background: black;
+ 
+}
+.message a{
+    color:#f8f8f8
+}
+.message2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.message a:hover{
+color: #918f8f;
+}
+.app{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    gap: 50px;
+    margin-bottom: 45px;
+}
